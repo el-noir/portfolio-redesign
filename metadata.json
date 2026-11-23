@@ -1,0 +1,6 @@
+{
+  "name": "Augmented Self — Cyberpunk Hero",
+  "description": "A cyberpunk-style interactive hero experience featuring cursor spotlight reveal, parallax grid, and animated circular telemetry arcs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
